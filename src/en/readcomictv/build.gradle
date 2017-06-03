@@ -5,8 +5,8 @@ ext {
     appName = 'Tachiyomi: ReadComic.tv'
     pkgNameSuffix = "en.readcomictv"
     extClass = '.Readcomictv'
-    extVersionCode = 1
-    extVersionSuffix = 1
+    extVersionCode = 2
+    extVersionSuffix = 2
     libVersion = '1.0'
 }
 
