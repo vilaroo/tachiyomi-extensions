@@ -1,3 +1,5 @@
+include ':test'
+project(':test').projectDir = new File("test")
 new File(rootDir, "src").eachDir { dir ->
     dir.eachDir { subdir ->
         String name = ":${dir.name}-${subdir.name}"
