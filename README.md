@@ -3,7 +3,7 @@
 
 This repository contains the available extension catalogues for the [Tachiyomi](https://github.com/inorichi/tachiyomi) app.
 
-# Users
+# Usage
 
 [Download links to be added]
 
@@ -13,7 +13,7 @@ It is currently possible to use extension sources. They are installed and uninst
 
 Site requests here are meant as up-for-grabs, thus it's impossible to provide a time estimation for any of them. If and when a willing and able developer makes them, is not know.
 
-# Contributors
+# Contributing
 
 Before you start, please note that the ability to use following technologies is **required** and it's not possible for us to teach you any of them.
 * Kotlin
