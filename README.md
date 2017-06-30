@@ -1,11 +1,27 @@
 [![Travis](https://img.shields.io/travis/inorichi/tachiyomi-extensions.svg)](https://travis-ci.org/inorichi/tachiyomi-extensions)
 [![fdroid dev](https://img.shields.io/badge/stable-wiki-blue.svg)](//github.com/inorichi/tachiyomi/wiki/FDroid-for-dev-versions)
 
-This repository contains the available extension catalogues for the Tachiyomi app.
+This repository contains the available extension catalogues for the [Tachiyomi](https://github.com/inorichi/tachiyomi) app.
+
+# Users
 
 [Download links to be added]
 
-### Writing an extension
+It is currently possible to use extension sources. They are installed and uninstalled like apps, in .apk format. The plan is to have a UI in the main app, that will enable installing and updating extensions.
+
+## Requests
+
+Site requests here are meant as up-for-grabs, thus it's impossible to provide a time estimation for any of them. If and when a willing and able developer makes them, is not know.
+
+# Contributors
+
+Before you start, please note that the ability to use following technologies is **required** and it's not possible for us to teach you any of them.
+* Kotlin
+* JSoup
+* HTML
+* CSS selectors
+
+## Writing an extension
 
 The easiest way to write and debug an extension is by directly hardcoding it in Tachiyomi's source code. Once it's working there, you have to clone this repository and create a new folder with a similar structure to the other catalogues. Then copy your catalogue implementation and make sure to change the package name if it was different in Tachiyomi. Finally, write the `build.gradle` file, which has the following structure:
 
