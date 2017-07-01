@@ -11,7 +11,7 @@ It is currently possible to use extension sources. They are installed and uninst
 
 ## Requests
 
-Site requests here are meant as up-for-grabs, thus it's impossible to provide a time estimation for any of them. If and when a willing and able developer makes them, is not know.
+Site requests here are meant as up-for-grabs, thus it's impossible to provide a time estimation for any of them. Furthermore, some sites are impossible to do, usually because of various technical reasons.
 
 # Contributing
 
